@@ -1,3 +1,9 @@
 * {
 	font-family: sans-serif;
 }
+
+body {
+	text-align: center;
+	background-color: rgb(143, 245, 245);
+	color: #e3e3e3;
+}
